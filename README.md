@@ -1,5 +1,5 @@
 # Wordle Clone
-March 1 2022
+1 March 2022
 
 By Vanessa Stewart
 
