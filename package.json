@@ -1,0 +1,23 @@
+{
+  "name": "wordle-clone",
+  "version": "1.0.0",
+  "description": "1 March 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanmars/wordle-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanmars/wordle-clone/issues"
+  },
+  "homepage": "https://github.com/vanmars/wordle-clone#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
